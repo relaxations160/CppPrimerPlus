@@ -27,5 +27,11 @@
     <ClCompile Include="morechar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bondinicpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="floatnum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
