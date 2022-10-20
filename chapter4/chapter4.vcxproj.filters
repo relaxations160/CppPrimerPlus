@@ -39,5 +39,11 @@
     <ClCompile Include="strtype4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="assgn_st.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
